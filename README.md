@@ -1,17 +1,3 @@
-export default {
-    root: "src",
-    build: {
-        outDir: "../public",
-    },
-};
-
-                        
-                            README.md 파일은 markdown으로 작성된 파일입니다. 
-                            html/css보다 쉽게 파일을 작성할 수 있습니다. 
-                            저희가 작업하고 있는 사항들을 정리하면서 메모할 것입니다. 
-                            #은 제목 태그라고 생각하시면되고 -는 리스트라고 보시면 됩니다. 
-                            별건 없습니다. 따라하시면 저게 저런거구나 쉽게 이해할 수 있습니다. 
-                        
 # 포트폴리오 사이트 만들기 프로젝트
 
 이 튜토리얼은 하나의 웹사이트를 여러 가지 프레임워크를 사용하여 만드는 방법에 대해 소개합니다. 
@@ -51,4 +37,3 @@ export default {
     outDir: "../public",
     },
 };
-출처: https://webstoryboy.co.kr/1924 [WEBSTORYBOY:티스토리]
