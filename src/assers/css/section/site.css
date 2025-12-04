@@ -29,6 +29,7 @@
     flex-direction: column;
     position: sticky;
     left: 0;
+    border-radius: 20px;
 }
 .site__item.s1 {
     background-color: var(--subBg100);
